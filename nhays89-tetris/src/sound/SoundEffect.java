@@ -1,5 +1,6 @@
 /*
- * TCSS 305 – Autumn 2015 Assignment 6 – Tetris
+ * TCSS 305 – Autumn 2015 
+ * Assignment 6 – Tetris
  */
 
 package sound;
